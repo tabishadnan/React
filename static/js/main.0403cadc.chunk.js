@@ -1,0 +1,2 @@
+(this["webpackJsonphello-world"]=this["webpackJsonphello-world"]||[]).push([[0],{3:function(e,n,t){e.exports=t(9)},8:function(e,n,t){},9:function(e,n,t){"use strict";t.r(n);var l=t(0),o=t.n(l),r=t(2),a=t.n(r);t(8);var c=function(){return o.a.createElement("div",{className:"App"},o.a.createElement("h1",null,"Hello World !!!"))};a.a.render(o.a.createElement(c,null),document.getElementById("root"))}},[[3,1,2]]]);
+//# sourceMappingURL=main.0403cadc.chunk.js.map
